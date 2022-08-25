@@ -5,7 +5,7 @@ GPU-accelerated Semantic Image Segmentation with PyTorch
 
 
 ## Informasi webinar: 
-[[Link]](https://tampil.id/event/detail/VFdwWk1FNUJQVDA9) 
+[[Link]](https://tampil.id/event/detail/VFdwWk1FNUJQVDA9) \
 <img src="docs/event.jpg" width="400">
 
 
