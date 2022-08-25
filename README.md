@@ -5,7 +5,7 @@
 
 
 ## Step:
-1. Download dan extract set dataset [cityscapes](https://www.cityscapes-dataset.com/) 
+1. Download dan extract dataset [cityscapes](https://www.cityscapes-dataset.com/) 
     - leftImg8bit_trainvaltest.zip (11GB)
     - gtFine_trainvaltest.zip (241MB)
 2. Run jupyter notebook dan buka semseg.ipynb
